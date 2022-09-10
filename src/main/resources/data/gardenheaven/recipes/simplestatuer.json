@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:stone_stairs"
+    },
+    "5": {
+      "item": "minecraft:stone_stairs"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "gardenheaven:simplestatue",
+    "count": 1
+  }
+}

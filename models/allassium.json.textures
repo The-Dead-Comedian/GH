@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "allassium",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

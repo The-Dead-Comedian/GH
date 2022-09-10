@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_STAIRS"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_STAIRS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SMOOTH_STONE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WieldingStatue"
+    },
+    "name": "wielding_statuer",
+    "namespace": "mod"
+  }
+}

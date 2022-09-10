@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:stone_stairs"
+    },
+    "4": {
+      "item": "minecraft:stone_sword"
+    },
+    "5": {
+      "item": "minecraft:stone_stairs"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "gardenheaven:wielding_statue",
+    "count": 1
+  }
+}

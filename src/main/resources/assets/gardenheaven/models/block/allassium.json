@@ -1,0 +1,9 @@
+{
+  "parent": "gardenheaven:custom/allassium",
+  "textures": {
+    "all": "gardenheaven:blocks/allassium",
+    "particle": "gardenheaven:blocks/allassium",
+    "0": "gardenheaven:blocks/allassium",
+    "missing": "gardenheaven:blocks/"
+  }
+}

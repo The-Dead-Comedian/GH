@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spike",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Garden Heaven",
+    "icon": {
+      "value": "Items.WHEAT_SEEDS"
+    },
+    "showSearch": false
+  }
+}

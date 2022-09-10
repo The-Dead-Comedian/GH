@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/statue_with_alliassium_model",
+  "textures": {
+    "all": "gardenheaven:blocks/statuewithalliassium",
+    "particle": "gardenheaven:blocks/statuewithalliassium",
+    "3": "gardenheaven:blocks/statuewithalliassium"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/allassium_pot_model",
+  "textures": {
+    "all": "gardenheaven:blocks/allassiumpottexture",
+    "particle": "gardenheaven:blocks/allassiumpottexture",
+    "1": "gardenheaven:blocks/allassiumpottexture"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gardenheaven:block/simplestatue"
+    },
+    "facing=east": {
+      "model": "gardenheaven:block/simplestatue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gardenheaven:block/simplestatue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gardenheaven:block/simplestatue",
+      "y": 270
+    }
+  }
+}

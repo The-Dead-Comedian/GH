@@ -1,0 +1,7 @@
+{
+  "parent": "gardenheaven:custom/obscure_staff",
+  "textures": {
+    "0": "gardenheaven:blocks/obscurestaff",
+    "particle": "gardenheaven:items/obscurestaff"
+  }
+}

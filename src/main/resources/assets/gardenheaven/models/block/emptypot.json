@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/empty_pot_model",
+  "textures": {
+    "all": "gardenheaven:blocks/emptypottexture",
+    "particle": "gardenheaven:blocks/emptypottexture",
+    "2": "gardenheaven:blocks/emptypottexture"
+  }
+}

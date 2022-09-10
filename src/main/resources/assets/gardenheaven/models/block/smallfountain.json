@@ -1,0 +1,9 @@
+{
+  "parent": "gardenheaven:custom/small_fountain",
+  "textures": {
+    "all": "gardenheaven:blocks/fountainframe1",
+    "particle": "gardenheaven:blocks/fountainframe1",
+    "1": "gardenheaven:blocks/fountainframe1",
+    "missing": "gardenheaven:blocks/"
+  }
+}

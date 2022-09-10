@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "gardenheaven:obscure_crystal"
+    },
+    "3": {
+      "item": "gardenheaven:weirdfragment"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "gardenheaven:weirdfragment"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gardenheaven:obscure_staff",
+    "count": 1
+  }
+}

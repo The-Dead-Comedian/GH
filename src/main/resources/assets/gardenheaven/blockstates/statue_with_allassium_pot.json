@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gardenheaven:block/statue_with_allassium_pot"
+    },
+    "facing=east": {
+      "model": "gardenheaven:block/statue_with_allassium_pot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gardenheaven:block/statue_with_allassium_pot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gardenheaven:block/statue_with_allassium_pot",
+      "y": 270
+    }
+  }
+}

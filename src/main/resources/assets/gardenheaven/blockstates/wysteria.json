@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gardenheaven:block/wysteria"
+    },
+    "facing=east": {
+      "model": "gardenheaven:block/wysteria",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gardenheaven:block/wysteria",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gardenheaven:block/wysteria",
+      "y": 270
+    }
+  }
+}

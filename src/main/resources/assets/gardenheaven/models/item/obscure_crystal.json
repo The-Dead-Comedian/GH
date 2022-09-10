@@ -1,0 +1,7 @@
+{
+  "parent": "gardenheaven:custom/obscure_crystal",
+  "textures": {
+    "0": "gardenheaven:blocks/obscure_crystal",
+    "particle": "gardenheaven:items/obscure_staff"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gardenheaven:custom/bloombringer",
+  "textures": {
+    "particle": "gardenheaven:items/bloombringer"
+  }
+}

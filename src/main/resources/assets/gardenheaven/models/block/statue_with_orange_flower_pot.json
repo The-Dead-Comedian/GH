@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/statue_with_orange_flower",
+  "textures": {
+    "all": "gardenheaven:blocks/statuewithorangeflower",
+    "particle": "gardenheaven:blocks/statuewithorangeflower",
+    "1": "gardenheaven:blocks/statuewithorangeflower"
+  }
+}

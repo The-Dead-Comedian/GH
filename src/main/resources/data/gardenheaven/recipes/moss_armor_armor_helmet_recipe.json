@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:moss_block"
+    },
+    "1": {
+      "item": "minecraft:moss_block"
+    },
+    "2": {
+      "item": "minecraft:moss_block"
+    },
+    "3": {
+      "item": "minecraft:moss_block"
+    },
+    "5": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "gardenheaven:moss_armor_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gardenheaven:block/statue_with_emptypot"
+    },
+    "facing=east": {
+      "model": "gardenheaven:block/statue_with_emptypot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gardenheaven:block/statue_with_emptypot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gardenheaven:block/statue_with_emptypot",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/statue_with_empty_pot",
+  "textures": {
+    "all": "gardenheaven:blocks/statuewithemptypot",
+    "particle": "gardenheaven:blocks/statuewithemptypot",
+    "1": "gardenheaven:blocks/statuewithemptypot"
+  }
+}

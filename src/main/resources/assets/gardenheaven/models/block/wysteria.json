@@ -1,0 +1,8 @@
+{
+  "parent": "gardenheaven:custom/wysteria",
+  "textures": {
+    "all": "gardenheaven:blocks/wysteria",
+    "particle": "gardenheaven:blocks/wysteria",
+    "2": "gardenheaven:blocks/wysteria"
+  }
+}

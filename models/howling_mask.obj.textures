@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_2": "howling_mask"
+      },
+      "name": "default"
+    }
+  }
+}
